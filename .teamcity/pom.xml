@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <project>
   <modelVersion>4.0.0</modelVersion>
-  <name>WebDev_NitroUI_Av_Av_Npm_TinyMapper Config DSL Script</name>
-  <groupId>WebDev_NitroUI_Av_Av_Npm_TinyMapper</groupId>
-  <artifactId>WebDev_NitroUI_Av_Av_Npm_TinyMapper_dsl</artifactId>
+  <name>TinyMapper Config DSL Script</name>
+  <groupId>WinDev_NitroUi_Av_Av_Npm_TinyMapper</groupId>
+  <artifactId>WinDev_NitroUI_Av_Av_Npm_TinyMapper_dsl</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
