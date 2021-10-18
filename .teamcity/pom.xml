@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <name>TinyMapper Config DSL Script</name>
   <groupId>WinDev_NitroUi_Av_Av_Npm_TinyMapper</groupId>
-  <artifactId>WinDev_NitroUI_Av_Av_Npm_TinyMapper_dsl</artifactId>
+  <artifactId>WinDev_NitroUi_Av_Av_Npm_TinyMapper_dsl</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
