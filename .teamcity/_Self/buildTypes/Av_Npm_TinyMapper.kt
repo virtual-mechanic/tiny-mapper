@@ -4,7 +4,7 @@ import jetbrains.buildServer.configs.kotlin.v2019_2.*
 import jetbrains.buildServer.configs.kotlin.v2019_2.triggers.vcs
 
 object Av_Npm_TinyMapper : BuildType({
-    templates(_Self.NpmTemplate)
+    templates(_Self.buildTypes.NpmTemplate)
 
     name = "tiny-mapper"
 
